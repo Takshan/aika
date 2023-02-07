@@ -1,8 +1,3 @@
-*/.ipynb_checkpoints/*
-data/
-*.h5
-a/sample.h5
-aiba.egg-info
 *.csv
 *.h5
 *.pkl

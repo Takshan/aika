@@ -1,0 +1,13 @@
+
+# config file for the project : BidningAffinity
+
+# train: "/home/lab09/BindingAffinity/reference/TRAIN_DF.csv"
+# train: "/home/lab09/BindingAffinity/reference/TRAIN_DF_mw_roc_rot_clean.csv"
+# train: "/home/lab09/BindingAffinity/reference/TRAIN_DF_mw_roc_rot_clean_clean_seq_refined.csv"
+train: "/home/lab09/BindingAffinity/reference/TRAIN_DF_mw_roc_rot_clean_clean.csv"
+test: "/home/lab09/BindingAffinity/reference/TEST.csv"
+# test: "/home/lab09/BindingAffinity/reference/TRAIN_DF_mw_roc_rot_clean_clean_2000.csv"
+protein_encoding: "/home/lab09/BindingAffinity/reference/NEW_4A_DM_18030.h5"
+smiles_encoding: "/home/lab09/BindingAffinity/reference/LATEST_NEW_PHARMACOPHORE4.h5"
+smiles2vector: "/home/lab09/seq2vec/reference/model_300dim.pkl"
+

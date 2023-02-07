@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Datasets"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Notion Code Theme",
+		"git.ignoreLimitWarning": true
+	}
+}
